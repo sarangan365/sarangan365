@@ -1,5 +1,7 @@
 Hi 👋 My name is Sarangan
-=========================Software Engineer-----------------👋 Hi, I'm Sarangan Rajendran, a MERN Stack Developer with 1.5+ years of experience. I'm passionate about creating web applications with JavaScript, React JS, MongoDB, and AWS. I 💙 clean code and solving complex challenges. Check out my projects below! 🔥🚀* 🌍  I'm based in Pudukkottai,Tamilnadu,India* 🖥️  See my portfolio at [Sarangan365](http://sarangan365.netlify.app/)* ✉️  You can contact me at [sarangan365@gmail.com](mailto:sarangan365@gmail.com)* 🧠  I'm learning I learning next js Server-side rendering.* 🤝  I'm open to collaborating on MERN Stack projects* ⚡  I'm a night owl 🦉 on the hunt for my prey.
+
+<br>
+Hi, I'm Sarangan Rajendran, a MERN Stack Developer with 1.5+ years of experience. I'm passionate about creating web applications with JavaScript, React JS, MongoDB, and AWS. I 💙 clean code and solving complex challenges. Check out my projects below! 🔥🚀* 🌍  I'm based in Pudukkottai,Tamilnadu,India* 🖥️  See my portfolio at [Sarangan365](http://sarangan365.netlify.app/)* ✉️  You can contact me at [sarangan365@gmail.com](mailto:sarangan365@gmail.com)* 🧠  I'm learning I learning next js Server-side rendering.* 🤝  I'm open to collaborating on MERN Stack projects* ⚡  I'm a night owl 🦉 on the hunt for my prey.
 
 ### Skills
 
